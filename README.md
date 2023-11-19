@@ -1,7 +1,7 @@
 # Setup Server
 
 cd server
-npm isntall
+npm install 
 node app.js
 
 # Setup Client
